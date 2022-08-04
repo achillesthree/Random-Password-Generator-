@@ -1,5 +1,7 @@
 # Random-Password-Generator-
 
+file:///C:/Users/al0218/Desktop/PWG%20Screenshot.PNG
+
 ## Description
 
 This project was to modify starter code to create an application that enables employees to generate random passwords based on criteria that they have selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.  

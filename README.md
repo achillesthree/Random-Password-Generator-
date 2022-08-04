@@ -1,86 +1,38 @@
-# Random-Password-Generator-Your Task
+# Random-Password-Generator-
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
-The password can include special characters. If you’re unfamiliar with these, see this list of password special characters from the OWASP Foundation.
+## Description
 
-User Story
+The project was to refactor the codebase for a marketing agency that meets accessibility standards so that the website is optimized for search engines. The reason why was so that I could get a better understanding of improving existing code without changing what it does. The solved problem will enable the marketing agency to get more traffic to the site. I learned many things, but commenting in the CSS sheet was huge for me. Describing what I see then I'll be able to create easier and faster.
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+## Table of Contents
 
-Acceptance Criteria
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#license)
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+## Installation
 
-Mock-Up
-The following image shows the web application's appearance and functionality:
+The project can be viewed using the URL file:///C:/Users/al0218/Desktop/Challenge%201/Accessibility-Challenge/index.html or by accessing my public Git Hub https://github.com/achillesthree/Accessibility-Challenge
 
-Grading Requirements
+## Usage
 
-Note: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+Basic usage for this site applies.
 
-A repository that has no code
+## Credits
 
-A repository that includes a unique name but nothing else
+Collaborators included Shahid, Eric my instructor, Mike my TA and others in class for directional help.
 
-A repository that includes only a README file but nothing else
+Third-party assets were acquired through OSU BCS.
 
-A repository that only includes starter code
+HTML Tutorials used for this project all come from: https://www.w3schools.com/html/default.asp.
+README Tutorials and formatting used for this project come from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-This Challenge is graded based on the following criteria:
+## License
 
-Technical Acceptance Criteria: 40%
+Not sure what OSU Bootcamp and our class uses here but I look forward to learning more on this.
 
-Satisfies all of the preceding acceptance criteria.
+## Features
 
-Deployment: 32%
-
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository that contains application code.
-
-Application Quality: 15%
-
-Application user experience is intuitive and easy to navigate.
-
-Application user interface style is clean and polished.
-
-Application resembles the mock-up functionality provided in the Challenge instructions.
-
-Repository Quality: 13%
-
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-Review
-You are required to submit the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository, with a unique name and a readme describing the project.
+Since we were "only" refactoring, I didn't add any features. That said, I was charged with using Semantic HTML Elements to help clean up existing code and to that end I added these tags: header, body, section, figure, main, article, and nav tags. I also added alt attributes to specifiy an alternate text for an image, if the image cannot be displayed.

@@ -1,7 +1,8 @@
 # Random-Password-Generator-
 
-![Screenshot](<file:///C:/Users/al0218/Desktop/PWG%20Screenshot.PNG>
-)
+<div align="center">
+    <img src="src="https://user-images.githubusercontent.com/105816630/182791909-9715d6fe-4b85-4618-b2f0-61e6a07384cd.PNG"</img> 
+</div>
 
 ## Description
 

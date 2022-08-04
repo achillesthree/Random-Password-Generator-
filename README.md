@@ -1,9 +1,5 @@
 # Random-Password-Generator-
 
-<div align="center">
-    <img src="src="https://user-images.githubusercontent.com/105816630/182791909-9715d6fe-4b85-4618-b2f0-61e6a07384cd.PNG"</img> 
-</div>
-
 ## Description
 
 This project was to modify starter code to create an application that enables employees to generate random passwords based on criteria that they have selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.  

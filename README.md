@@ -2,7 +2,7 @@
 
 ## Description
 
-The project was to refactor the codebase for a marketing agency that meets accessibility standards so that the website is optimized for search engines. The reason why was so that I could get a better understanding of improving existing code without changing what it does. The solved problem will enable the marketing agency to get more traffic to the site. I learned many things, but commenting in the CSS sheet was huge for me. Describing what I see then I'll be able to create easier and faster.
+This project was to modify starter code to create an application that enables employees to generate random passwords based on criteria that they have selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.  
 
 ## Table of Contents
 
@@ -10,28 +10,31 @@ The project was to refactor the codebase for a marketing agency that meets acces
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#license)
+- [Features](#features)
 
 ## Installation
 
-The project can be viewed using the URL file:///C:/Users/al0218/Desktop/Challenge%201/Accessibility-Challenge/index.html or by accessing my public Git Hub https://github.com/achillesthree/Accessibility-Challenge
+This project can be viewed using the URL https://achillesthree.github.io/Random-Password-Generator-/ and by accessing my public GitHub https://github.com/achillesthree/Random-Password-Generator-
 
 ## Usage
 
-Basic usage for this site applies.
+Basic browser and usage for this application applies.
 
 ## Credits
 
-Collaborators included Shahid, Eric my instructor, Mike my TA and others in class for directional help.
+Collaborators include: Shahid, Nick, Dimitra, Eric my instructor, Mike my TA and others in class for directional/inspirational help.
 
 Third-party assets were acquired through OSU BCS.
 
-HTML Tutorials used for this project all come from: https://www.w3schools.com/html/default.asp.
+HTML Tutorials used for this project source: https://www.w3schools.com/html/default.asp.
+CSS Tutorials used for this project source: https://www.w3schools.com/css/
+JS Tutorials used for this project source: https://www.w3schools.com/js/default.asp
 README Tutorials and formatting used for this project come from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Random Password Generator Tutorials used for this project: https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
 
 ## License
 
-Not sure what OSU Bootcamp and our class uses here but I look forward to learning more on this.
+I'm not sure what OSU Bootcamp and our class uses here, but I look forward to learning more on this.
 
 ## Features
 

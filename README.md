@@ -45,8 +45,13 @@ I'm not sure what OSU Bootcamp and our class uses here, but I look forward to le
 This application features:
 
 A button to generate a new, secure and random password.
+
 Presents user with a series of prompts for password criteria.
+
 The criteria includes password length min/max, and options for UC, LC, Numbers and Special Characters.
+
 The input is validated and at least one character type is selected.
+
 When all prompts are answered a password is generated using the selected critiria.
+
 And the password is displayed in the text area. 

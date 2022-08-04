@@ -52,21 +52,23 @@ function getPrompts() {
     alert("Characters MUST be a number, at least 8 characters and less than 128 characters. Try again.");
     return false;
 }
-
+// asking for confirm message below to user and using concat method we are combining the two arrays "choiceArr" and lowerCaseArr
 if (confirm("Lowercase Letters in your PW?")) {
   choiceArr = choiceArr.concat (lowerCaseArr);
 }
-
+// asking for confirm message below to user and using concat method we are combining the two arrays "choiceArr" and upperCaseArr
 if (confirm("Uppercase Letters in your PW?")) {
   choiceArr = choiceArr.concat (upperCaseArr);
 }
+// asking for confirm message below to user and using concat method we are combining the two arrays "choiceArr" and specialCharArr
 if (confirm("Special Characters in your PW?")) {
   choiceArr = choiceArr.concat (specialCharArr);
 }
+// asking for confirm message below to user and using concat method we are combining the two arrays "choiceArr" and numberArr
 if (confirm("Numbers in your PW?")) {
   choiceArr = choiceArr.concat (numberArr);
 }
+// return/display randomly generated PW with user's own critiera if true 
 return true;
 }
   
-
